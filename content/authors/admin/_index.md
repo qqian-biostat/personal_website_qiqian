@@ -36,38 +36,43 @@ profiles:
 education:
   - area: PhD in Biostatistics
     institution: University of California, Los Angeles
-    date_start: 2019-09-01
+    date_start: 2021-09-01
     date_end: present
     summary: |
-      Thesis on _Modern modeling techniques for adverse events of kidney disease patients_. Supervised by [Prof Damla Senturk](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 3.971/4.0
+      Thesis on _Modern modeling techniques for adverse events of kidney disease patients_. Supervised by [Prof Damla Senturk](https://ph.ucla.edu/about/faculty-staff-directory/damla-senturk).
+    
+  - area: MS in Biostatistics
+    institution: University of California, Los Angeles
+    date_start: 2019-09-01
+    date_end: 2021-06-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.987/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Neurology and Neuroscience
+    institution: Zhejiang University
+    date_start: 2013-09-01
+    date_end: 2017-03-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.960/4.0
+
+  - area: PhD Visiting Research Scholoar
+    institution: Saarland University
+    date_start: 2014-11-01
+    date_end: 2015-05-31
+    summary: |
+      GPA: 1.0/1.0
+
+  - area: Medical Degree
+    institution: Zhejiang University
+    date_start: 2001-09-01
+    date_end: 2008-06-30
+    summary: |
+      GPA: 3.850/4.0
+    
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Student Researcher
+    company_name: University of California, Los Angeles
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
